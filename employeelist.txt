@@ -1,0 +1,13 @@
+101-M,Lannister,Jaime,H,12.50
+111-M,Snow,Jon,C,17.50
+122-M,Mormont,Jorah,d,15.00
+123-M,Seaworth,Davos,d,15.00
+131-M,Stark,Sansa,H,32.50
+132-M,Stark,Bran,C,22.00
+133-M,Tarly,Samwell,C,17.50
+139-M,Worm,Grey,X,77.77
+151-M,Stark,Catelyn,H,22.50
+153-M,Stark,Arya,H,39.50
+172-M,Targaryen,Daenerys,C,42.00
+181-M,Lannister,Cersei,E,32.50
+183-M,Greyjoy,Theon,E,32.50
